@@ -1,0 +1,4 @@
+C:\Users\mjkor\OneDrive\Documents\Source\hca-snacktrust\Code\hca.snacktrust.api\Hca.SnackTrust.Api\Hca.SnackTrust.Data\bin\Debug\netcoreapp3.1\Hca.SnackTrust.Core.dll
+C:\Users\mjkor\OneDrive\Documents\Source\hca-snacktrust\Code\hca.snacktrust.api\Hca.SnackTrust.Api\Hca.SnackTrust.Data\obj\Debug\netcoreapp3.1\Hca.SnackTrust.Data.csprojAssemblyReference.cache
+C:\Users\mjkor\OneDrive\Documents\Source\hca-snacktrust\Code\hca.snacktrust.api\Hca.SnackTrust.Api\Hca.SnackTrust.Data\obj\Debug\netcoreapp3.1\Hca.SnackTrust.Data.AssemblyInfoInputs.cache
+C:\Users\mjkor\OneDrive\Documents\Source\hca-snacktrust\Code\hca.snacktrust.api\Hca.SnackTrust.Api\Hca.SnackTrust.Data\obj\Debug\netcoreapp3.1\Hca.SnackTrust.Data.AssemblyInfo.cs
